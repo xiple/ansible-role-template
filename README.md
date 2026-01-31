@@ -1,9 +1,9 @@
-Ansible role: Tailscale
+Ansible role: Template
 =========
 
-TODO CI
+[![CI](https://github.com/xiple/ansible-role-template/actions/workflows/ci.yml/badge.svg)](https://github.com/xiple/ansible-role-template/actions/workflows/ci.yml)
 
-An ansible role that ...
+An ansible template role. Use it to scaffold ansible roles.
 
 Requirements
 ----------------
